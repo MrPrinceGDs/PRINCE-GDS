@@ -1,8 +1,8 @@
 {
-  "name": "PRINCEAI",
-  "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEAI",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEAI",
+  "name": "Princegds",
+  "description": "prince whatsapp bot",
+  "repository": "https://github.com/MrPrinceGDs/PRINCE-GDS",
+  "success_url": "https://github.com/MrPrinceGDs/PRINCE-GDS",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
